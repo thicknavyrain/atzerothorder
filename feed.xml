@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>AtZerothOrder</title>
-    <link href="https://atzeorthorder.com/feed.xml" rel="self" />
-    <link href="https://atzeorthorder.com" />
+    <link href="https://atzerothorder.com/feed.xml" rel="self" />
+    <link href="https://atzerothorder.com" />
     <updated>2023-08-26T17:07:13+01:00</updated>
     <author>
         <name>ThickNavyRain</name>
     </author>
-    <id>https://atzeorthorder.com</id>
+    <id>https://atzerothorder.com</id>
 
     <entry>
         <title>Test post</title>
         <author>
             <name>ThickNavyRain</name>
         </author>
-        <link href="https://atzeorthorder.com/test-post.html"/>
-        <id>https://atzeorthorder.com/test-post.html</id>
+        <link href="https://atzerothorder.com/test-post.html"/>
+        <id>https://atzerothorder.com/test-post.html</id>
 
         <updated>2023-08-26T17:07:13+01:00</updated>
             <summary>

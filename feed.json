@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "AtZerothOrder",
+    "description": "",
+    "home_page_url": "https://atzeorthorder.com",
+    "feed_url": "https://atzeorthorder.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "ThickNavyRain"
+    },
+    "items": [
+        {
+            "id": "https://atzeorthorder.com/test-post.html",
+            "url": "https://atzeorthorder.com/test-post.html",
+            "title": "Test post",
+            "summary": "This is where a post would go.",
+            "content_html": "<p>This is where a post would go.</p>",
+            "author": {
+                "name": "ThickNavyRain"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-08-26T17:07:13+01:00",
+            "date_modified": "2023-08-26T17:07:13+01:00"
+        }
+    ]
+}
